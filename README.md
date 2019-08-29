@@ -1,7 +1,12 @@
 # Ruby on Rails Tutorial 6th Edition Gemfiles
 
-These are the latest Gemfiles for the [*Ruby on Rails Tutorial*](https://www.railstutorial.org/) (6th Ed.) by [Michael Hartl](https://www.michaelhartl.com/). Because the files here are easier to keep up-to-date, readers of the *Ruby on Rails Tutorial* print edition should always use these Gemfiles in preference to the ones listed in the book.
+These are the latest Gemfiles for the [*Ruby on Rails Tutorial*](https://www.railstutorial.org/) (6th Ed.) by [Michael Hartl](https://www.michaelhartl.com/). Because the files here are easier to keep up-to-date, readers of the *Ruby on Rails Tutorial* should always use these Gemfiles in preference to the ones listed in the book.
 
-* [`Gemfile` for the hello app](https://github.com/mhartl/rails_tutorial_6th_edition_gemfiles/blob/master/hello_app/Gemfile) (`hello_app`) from Chapter 1
-* [`Gemfile` for the toy app](https://github.com/mhartl/rails_tutorial_6th_edition_gemfiles/blob/master/toy_app/Gemfile) (`toy_app`) from Chapter 2
-* [`Gemfile` for the sample app](https://github.com/mhartl/rails_tutorial_6th_edition_gemfiles/blob/master/sample_app/Gemfile) (`sample_app`) from Chapters 3–14
+* `hello_app` from Chapter 1
+  - Initial [`Gemfile`](https://github.com/mhartl/rails_tutorial_6th_edition_gemfiles/blob/master/hello_app/Gemfile) 
+  - Final [`Gemfile`](https://github.com/mhartl/rails_tutorial_6th_edition_gemfiles/blob/master/hello_app/Gemfile_final)
+* `toy_app` from Chapter 2
+  - [`Gemfile`](https://github.com/mhartl/rails_tutorial_6th_edition_gemfiles/blob/master/toy_app/Gemfile)
+* `sample_app` from Chapters 3–14
+  - Initial [`Gemfile`](https://github.com/mhartl/rails_tutorial_6th_edition_gemfiles/blob/master/sample_app/Gemfile_initial)
+  - Final [`Gemfile`](https://github.com/mhartl/rails_tutorial_6th_edition_gemfiles/blob/master/sample_app/Gemfile)
