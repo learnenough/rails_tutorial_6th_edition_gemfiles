@@ -10,3 +10,6 @@ These are the latest Gemfiles for the [*Ruby on Rails Tutorial*](https://www.rai
 * `sample_app` from Chapters 3–14
   - Initial [`Gemfile`](https://github.com/mhartl/rails_tutorial_6th_edition_gemfiles/blob/master/sample_app/Gemfile_initial)
   - Final [`Gemfile`](https://github.com/mhartl/rails_tutorial_6th_edition_gemfiles/blob/master/sample_app/Gemfile)
+
+*Note*: The easiest way to copy a Gemfile is to click on the relevant link and then select “Raw”. Selecting all (Ctrl/Cmd-A, depending on system) and copying (Ctrl/Cmd-C) then lets you paste (Ctrl/Cmd-V) into your application.
+
