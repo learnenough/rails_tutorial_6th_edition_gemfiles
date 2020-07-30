@@ -1,6 +1,6 @@
 # Ruby on Rails Tutorial 6th Edition Gemfiles
 
-These are the latest Gemfiles for the [*Ruby on Rails Tutorial*](https://www.railstutorial.org/) (6th Ed.) by [Michael Hartl](https://www.michaelhartl.com/). To the extent that there’s any differnece, readers of the *Ruby on Rails Tutorial* should always use these Gemfiles in preference to the ones listed in the book.
+These are the latest Gemfiles for the [*Ruby on Rails Tutorial*](https://www.railstutorial.org/) (6th Ed.) by [Michael Hartl](https://www.michaelhartl.com/). To the extent that there’s any difference, readers of the *Ruby on Rails Tutorial* should always use these Gemfiles in preference to the ones listed in the book.
 
 The Gemfiles in the [online version](https://www.railstutorial.org/book) should always match those shown below. Ebooks purchased from [railstutorial.org](https://www.railstutorial.org/) or [Learn Enough](https://www.learnenough.com) should also match automatically as long as you’ve downloaded the latest version, which you can find on your [Purchases page](https://www.learnenough.com/account/edit#settings-purchases). (You may have to [clear your browser cache](https://www.digitaltrends.com/computing/how-to-clear-your-browser-cache/) first.)
 
