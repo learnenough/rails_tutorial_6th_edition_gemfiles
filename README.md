@@ -15,5 +15,10 @@ The Gemfiles in the [online version](https://www.railstutorial.org/book) should 
   - Initial [`Gemfile`](https://github.com/mhartl/rails_tutorial_6th_edition_gemfiles/blob/master/sample_app/Gemfile_initial)
   - Final [`Gemfile`](https://github.com/mhartl/rails_tutorial_6th_edition_gemfiles/blob/master/sample_app/Gemfile)
 
-*Note*: The easiest way to copy a Gemfile is to click on the relevant link and then select “Raw”. Selecting all (Ctrl/Cmd-A, depending on system) and copying (Ctrl/Cmd-C) then lets you paste (Ctrl/Cmd-V) into your application’s Gemfile.
+*Note*: The easiest way to copy a Gemfile is to click on the relevant link and then select “Raw”. 
 
+![Finding the raw version of a Gemfile](https://cdn.learnenough.com/finding_raw_version.png)
+
+Selecting all (Ctrl/Cmd-A, depending on system) and copying (Ctrl/Cmd-C) then lets you paste (Ctrl/Cmd-V) into your application’s Gemfile.
+
+![The raw version of a Gemfile](https://cdn.learnenough.com/raw_version.png)
